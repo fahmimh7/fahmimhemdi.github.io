@@ -4,34 +4,65 @@ You can use the [editor on GitHub](https://github.com/fahmimh7/fahmimhemdi.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Fahmi mhemdi
+Fahmi Mhemdi is a self taught software developer from Tunisia.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+He is passionate about Technology, always looking for new challenges and always excited to learn something new...
+
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About
+Fahmi Mhemdi is a self taught software developer from Tunisia.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+He is passionate about Technology, always looking for new challenges and always excited to learn something new...
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Skills
+Graphic Design:
+Tools:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Adobe illustrator
+Adobe photoshop
 
-### Jekyll Themes
+Development:
+Languages:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fahmimh7/fahmimhemdi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+c#
+Python
+JavaScript
+SQL
 
-### Support or Contact
+Other Tools:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+HTML5/CSS3
+Augmented Reality
+GitHub
+Firebase
+
+Other Skills:
+Spoken Languages:
+
+Arabic:Native
+English:Fluent
+French:Intermediate
+
+Text Editors/IDE's:
+
+Visual Studio
+Android Studio
+Visual Studio Code
+Sublime Text 3
+### Contact
+
+Interested in working together?
+Let's talk about your next project!!!
+
+
+
+
+
+
++21625796007
+
